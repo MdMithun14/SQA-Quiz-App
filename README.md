@@ -15,7 +15,7 @@ Receive a score and feedback based on your performance.
 1.Java Development Kit (JDK) installed
 2.Java IDE (optional, but recommended)
 ## Usage
-## Clone the repository:https:
-//github.com/MdMithun14/SQA-Quiz-App.git
+1  Clone the repository:https:
+
 
 
